@@ -1,0 +1,11 @@
+# this is used to make a pattern of various packages to install
+# all at once using the command
+#  pip install -r requirements.txt 
+
+# requirements.txt is the name of this file
+# here i can add or remove many packages as I want
+
+
+numpy
+pandas
+matplotlib
